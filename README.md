@@ -18,7 +18,7 @@ Front-End Web Developer • Software Engineering Student
 
 🎓 Lulusan **SMK Negeri 4 Bojonegoro** jurusan **Rekayasa Perangkat Lunak (RPL)**
 
-💼 Menyelesaikan **program magang selama 6 bulan di PT Humma Teknologi Indonesia** sebagai **Front-End Web Developer**
+💼 Menyelesaikan **program magang di PT Humma Teknologi Indonesia** sebagai **Front-End Web Developer**
 
 🤝 Berpengalaman bekerja sama dalam tim pengembangan untuk membangun aplikasi web yang responsif dan ramah pengguna
 
@@ -55,7 +55,7 @@ Front-End Web Developer • Software Engineering Student
 - 🎨 Pengembangan UI / UX
 - 🚀 Optimasi Performa Front-End
 - 🌐 Teknologi Web Modern
-- 📚 Mempelajari Dasar-Dasar Laravel
+- 📚 Mempelajari Laravel Lebih Dalam
 
 
 
