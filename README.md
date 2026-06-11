@@ -89,7 +89,7 @@ Front-End Web Developer • Software Engineering Student
 ## Animasi Kontribusi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArkhanHardianRamadhani/ArkhanHardianRamadhani/output/github-contribution-grid-snake-dark.svg" alt="Animasi Ular Kontribusi"/>
+  <img src="https://raw.githubusercontent.com/ArkhanHardianRamadhani/ArkhanHardianRamadhani/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 
