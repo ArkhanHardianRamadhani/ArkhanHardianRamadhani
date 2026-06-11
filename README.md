@@ -12,7 +12,7 @@ Front-End Web Developer • Software Engineering Student
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Front-End+Web+Developer;React+Developer;Software+Engineering+Student;Always+Learning+New+Things" />
 </p>
 
----
+
 
 ## Tentang Saya
 
@@ -26,7 +26,7 @@ Front-End Web Developer • Software Engineering Student
 
 💡 Memiliki minat besar dalam menciptakan antarmuka yang bersih, interaktif, dan menarik secara visual
 
----
+
 
 ## Teknologi yang Saya Gunakan
 
@@ -34,7 +34,7 @@ Front-End Web Developer • Software Engineering Student
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,laravel,mysql,git,github,vscode,figma" />
 </p>
 
----
+
 
 ## Pengalaman
 
@@ -47,7 +47,7 @@ Front-End Web Developer • Software Engineering Student
 - Meningkatkan responsivitas website dan pengalaman pengguna
 - Menggunakan HTML, CSS, JavaScript, React, Tailwind CSS, dan Bootstrap dalam pengembangan aplikasi
 
----
+
 
 ## Fokus Saat Ini
 
@@ -57,7 +57,7 @@ Front-End Web Developer • Software Engineering Student
 - 🌐 Teknologi Web Modern
 - 📚 Mempelajari Dasar-Dasar Laravel
 
----
+
 
 ## Statistik GitHub
 
@@ -76,7 +76,7 @@ Front-End Web Developer • Software Engineering Student
 </tr>
 </table>
 
----
+
 
 ## Aktivitas GitHub
 
@@ -84,7 +84,7 @@ Front-End Web Developer • Software Engineering Student
   <img src="https://streak-stats.demolab.com?user=ArkhanHardianRamadhani&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 
 ## Animasi Kontribusi
 
@@ -92,7 +92,7 @@ Front-End Web Developer • Software Engineering Student
   <img src="https://raw.githubusercontent.com/ArkhanHardianRamadhani/ArkhanHardianRamadhani/output/github-contribution-grid-snake-dark.svg" alt="Animasi Ular Kontribusi"/>
 </p>
 
----
+
 
 <p align="center">
   <i>"Membangun antarmuka yang indah dan menghadirkan pengalaman pengguna yang bermakna."</i>
