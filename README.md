@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/headerguthub.png" alt="Arkhan Hardian Ramadhani Banner" width="100%">
+  <img src="img/headergithub.png" alt="Arkhan Hardian Ramadhani Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Arkhan Hardian Ramadhani</h1>
