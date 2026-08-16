@@ -1,103 +1,28 @@
-<p align="center">
-  <img src="img/headergithub.png" alt="Arkhan Hardian Ramadhani Banner" width="100%">
-</p>
+<p align="center"> 
+  <img src="img/headergithub.png" alt="Arkhan Hardian Ramadhani Banner" width="100%"> 
+</p> 
 
 <h1 align="center">Hi 👋, I'm Arkhan Hardian Ramadhani</h1>
 
-<h3 align="center">
-Front-End Web Developer • Software Engineering Student
-</h3>
+### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Front-End+Web+Developer;React+Developer;Software+Engineering+Student;Always+Learning+New+Things" />
+I am an Information Technology student and a graduate of SMK Negeri 4 Bojonegoro, majoring in Software Engineering. I have a strong interest in the IT field, particularly in Web Development and Front-End Development. I enjoy learning new technologies, building applications, and continuously improving my skills through various projects.
+
+### 💼 Experience
+
+I have 6 months of internship experience at PT Humma Teknologi Indonesia as a Front-End Web Developer. During my internship, I gained experience in developing website interfaces, implementing designs into code, and collaborating with a team to develop web-based applications.
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arkhan-hardian-ramadhani-aa7639360" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/arkhan_hardian" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
-
-
-## Tentang Saya
-
-🎓 Lulusan **SMK Negeri 4 Bojonegoro** jurusan **Rekayasa Perangkat Lunak (RPL)**
-
-💼 Menyelesaikan **program magang di PT Humma Teknologi Indonesia** sebagai **Front-End Web Developer**
-
-🤝 Berpengalaman bekerja sama dalam tim pengembangan untuk membangun aplikasi web yang responsif dan ramah pengguna
-
-🌱 Saat ini sedang mempelajari **Laravel** dan terus mengeksplorasi teknologi pengembangan web modern
-
-💡 Memiliki minat besar dalam menciptakan antarmuka yang bersih, interaktif, dan menarik secara visual
-
-
-
-## Teknologi yang Saya Gunakan
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,laravel,mysql,git,github,vscode,figma" />
-</p>
-
-
-
-## Pengalaman
-
-### Front-End Web Developer Intern
-**PT Humma Teknologi Indonesia**
-
-- Mengembangkan antarmuka web yang responsif
-- Berkolaborasi dengan developer dan desainer dalam lingkungan kerja tim
-- Membangun komponen UI yang dapat digunakan kembali
-- Meningkatkan responsivitas website dan pengalaman pengguna
-- Menggunakan HTML, CSS, JavaScript, React, Tailwind CSS, dan Bootstrap dalam pengembangan aplikasi
-
-
-
-## Fokus Saat Ini
-
-- ⚛️ Memperdalam Ekosistem React
-- 🎨 Pengembangan UI / UX
-- 🚀 Optimasi Performa Front-End
-- 🌐 Teknologi Web Modern
-- 📚 Mempelajari Laravel Lebih Dalam
-
-
-
-## Statistik GitHub
-
-<table align="center">
-<tr>
-<td>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArkhanHardianRamadhani&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-<td>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkhanHardianRamadhani&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
-
-
-
-## Aktivitas GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArkhanHardianRamadhani&theme=tokyonight&hide_border=true" />
-</p>
-
-
-
-## Animasi Kontribusi
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArkhanHardianRamadhani/ArkhanHardianRamadhani/snake-output/snake.svg" alt="Snake animation" />
-</p>
-
-
-
-<p align="center">
-  <i>"Membangun antarmuka yang indah dan menghadirkan pengalaman pengguna yang bermakna."</i>
-</p>
-
-<p align="center">
-  Terima kasih telah mengunjungi profil saya!
+<p align="center"> 
+  Thank you for visiting my profile! 🙌
 </p>
